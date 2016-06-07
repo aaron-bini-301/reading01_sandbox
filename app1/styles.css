@@ -49,3 +49,7 @@ body {
 #main-header li {
   display: block;
 }
+
+.red {
+  color: red;
+}
